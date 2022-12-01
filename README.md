@@ -1,0 +1,2 @@
+# CC
+for competitive coding
